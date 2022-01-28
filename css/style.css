@@ -535,11 +535,10 @@ a{
 }
 
 .fa{
-        padding: 8 0px;
 	height: 56px;
     	width: 56px;
     	text-decoration: none;
-    	margin: 0px 6px;
+    	margin: 8px 6px;
     	border-radius: 50%;
     	display: flex;
     	color: #FFFFFF;
