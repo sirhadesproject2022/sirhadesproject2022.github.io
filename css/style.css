@@ -531,11 +531,11 @@ a{
 }
 
 .social-media-wrapper{
-        padding: 16px 0;
+        padding: 0 16px;
 }
 
 .fa{
-        padding: 0 8px;
+        padding: 8 0px;
 	height: 56px;
     	width: 56px;
     	text-decoration: none;
