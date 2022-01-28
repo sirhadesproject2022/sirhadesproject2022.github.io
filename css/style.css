@@ -530,7 +530,12 @@ a{
         font-weight: 500;
 }
 
+.social-media-wrapper{
+        padding: 16px 0;
+}
+
 .fa{
+        padding: 0 8px;
 	height: 56px;
     	width: 56px;
     	text-decoration: none;
